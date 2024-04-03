@@ -1,0 +1,6 @@
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionSeven\QuestionSeven\bin\Debug\QuestionSeven.exe.config
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionSeven\QuestionSeven\bin\Debug\QuestionSeven.exe
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionSeven\QuestionSeven\bin\Debug\QuestionSeven.pdb
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionSeven\QuestionSeven\obj\Debug\QuestionSeven.csprojResolveAssemblyReference.cache
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionSeven\QuestionSeven\obj\Debug\QuestionSeven.exe
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionSeven\QuestionSeven\obj\Debug\QuestionSeven.pdb
